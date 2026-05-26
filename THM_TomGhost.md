@@ -2,8 +2,6 @@
 
 ---
 
-## Progress Tracker
-
 ### Reconnaissance
 
 **Active Recon**
